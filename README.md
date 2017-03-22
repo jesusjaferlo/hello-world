@@ -5,3 +5,8 @@ Just another repository
 * Android.- _Android Platform_ 
 * Javascript.- _Front Dev_
 * PowerBuilder _4G Language_
+### Developer JJVector
+* Mysql
+* Db2
+* Oracle
+* Informix
